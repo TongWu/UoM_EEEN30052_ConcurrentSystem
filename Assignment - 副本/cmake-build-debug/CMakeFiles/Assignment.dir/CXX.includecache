@@ -1,0 +1,74 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Coding Workspace/ConcurrentSystem/Assignment/Competitor.h
+string
+-
+
+F:/Coding Workspace/ConcurrentSystem/Assignment/FinishAgent.h
+iostream
+-
+mutex
+-
+SyncAgent.h
+F:/Coding Workspace/ConcurrentSystem/Assignment/SyncAgent.h
+ThreadMap.h
+F:/Coding Workspace/ConcurrentSystem/Assignment/ThreadMap.h
+Competitor.h
+F:/Coding Workspace/ConcurrentSystem/Assignment/Competitor.h
+Results.h
+F:/Coding Workspace/ConcurrentSystem/Assignment/Results.h
+
+F:/Coding Workspace/ConcurrentSystem/Assignment/Results.h
+iostream
+-
+string
+-
+Competitor.h
+F:/Coding Workspace/ConcurrentSystem/Assignment/Competitor.h
+
+F:/Coding Workspace/ConcurrentSystem/Assignment/SyncAgent.h
+string
+-
+
+F:/Coding Workspace/ConcurrentSystem/Assignment/ThreadMap.h
+iostream
+-
+thread
+-
+map
+-
+string
+-
+Competitor.h
+F:/Coding Workspace/ConcurrentSystem/Assignment/Competitor.h
+
+F:/Coding Workspace/ConcurrentSystem/Assignment/main.cpp
+iostream
+-
+Competitor.h
+F:/Coding Workspace/ConcurrentSystem/Assignment/Competitor.h
+ThreadMap.h
+F:/Coding Workspace/ConcurrentSystem/Assignment/ThreadMap.h
+string
+-
+random
+-
+ctime
+-
+mutex
+-
+condition_variable
+-
+SyncAgent.h
+F:/Coding Workspace/ConcurrentSystem/Assignment/SyncAgent.h
+FinishAgent.h
+F:/Coding Workspace/ConcurrentSystem/Assignment/FinishAgent.h
+Results.h
+F:/Coding Workspace/ConcurrentSystem/Assignment/Results.h
+

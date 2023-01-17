@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1607592342 source:c:\users\king leo\desktop\study\y3\eeen 30052 concurrent system\coursework\assn\a2\main.cpp
+	<string>
+	<fstream>
+	<iostream>
+	<thread>
+	<vector>
+	<mutex>
+	<random>
+	<chrono>
+	<map>
+	<cassert>
+	<condition_variable>
+
