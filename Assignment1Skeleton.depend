@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1635338186 source:c:\users\pngeb\onedrive\documents\c++ programs\assignment1skeleton\assignment1skeleton\competitor.cpp
+	"Competitor.h"
+	<iostream>
+
+1635338217 c:\users\pngeb\onedrive\documents\c++ programs\assignment1skeleton\assignment1skeleton\competitor.h
+	<string>
+
+1635799807 source:c:\users\pngeb\onedrive\documents\c++ programs\assignment1skeleton\assignment1skeleton\main.cpp
+	<iostream>
+	"Competitor.h"
+	"ThreadMap.h"
+
+1635338345 c:\users\pngeb\onedrive\documents\c++ programs\assignment1skeleton\assignment1skeleton\threadmap.h
+	<iostream>
+	<thread>
+	<map>
+	<string>
+	"Competitor.h"
+
+1635340534 source:c:\users\pngeb\onedrive\documents\c++ programs\assignment1skeleton\assignment1skeleton\threadmap.cpp
+	"ThreadMap.h"
+
+1638650810 source:f:\university of manchester\year 3\eeen30052 concurrent systems 2021-22 1st semester\coursework\assignment1skeleton\competitor.cpp
+	"Competitor.h"
+	<iostream>
+
+1638650849 f:\university of manchester\year 3\eeen30052 concurrent systems 2021-22 1st semester\coursework\assignment1skeleton\competitor.h
+	<string>
+
+1638651328 source:f:\university of manchester\year 3\eeen30052 concurrent systems 2021-22 1st semester\coursework\assignment1skeleton\threadmap.cpp
+	"ThreadMap.h"
+
+1638650951 f:\university of manchester\year 3\eeen30052 concurrent systems 2021-22 1st semester\coursework\assignment1skeleton\threadmap.h
+	<iostream>
+	<thread>
+	<map>
+	<string>
+	<mutex>
+	"Competitor.h"
+
+1638654231 source:f:\university of manchester\year 3\eeen30052 concurrent systems 2021-22 1st semester\coursework\assignment1skeleton\main.cpp
+	<iostream>
+	"Competitor.h"
+	"ThreadMap.h"
+	<string>
+	<random>
+	<ctime>
+	<mutex>
+	<condition_variable>
+	<iomanip>
+	"SyncAgent.h"
+	"FinishAgent.h"
+
+1638650920 f:\university of manchester\year 3\eeen30052 concurrent systems 2021-22 1st semester\coursework\assignment1skeleton\syncagent.h
+	<string>
+
+1637684430 f:\university of manchester\year 3\eeen30052 concurrent systems 2021-22 1st semester\coursework\assignment1skeleton\ezagent.cpp
+	"SyncAgent.h"
+	<iostream>
+
+1638650858 source:f:\university of manchester\year 3\eeen30052 concurrent systems 2021-22 1st semester\coursework\assignment1skeleton\finishagent.cpp
+	"FinishAgent.h"
+
+1638650866 f:\university of manchester\year 3\eeen30052 concurrent systems 2021-22 1st semester\coursework\assignment1skeleton\finishagent.h
+	<iostream>
+	<mutex>
+	"SyncAgent.h"
+	"ThreadMap.h"
+	"Competitor.h"
+	"Results.h"
+
+1638650906 f:\university of manchester\year 3\eeen30052 concurrent systems 2021-22 1st semester\coursework\assignment1skeleton\results.h
+	<iostream>
+	<string>
+	"Competitor.h"
+
+1638654013 source:f:\university of manchester\year 3\eeen30052 concurrent systems 2021-22 1st semester\coursework\assignment1skeleton\results.cpp
+	"Results.h"
+

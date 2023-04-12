@@ -1,3 +1,0 @@
-F:/Coding Workspace/ConcurrentSystem/Assignment/cmake-build-debug/CMakeFiles/Assignment.dir
-F:/Coding Workspace/ConcurrentSystem/Assignment/cmake-build-debug/CMakeFiles/edit_cache.dir
-F:/Coding Workspace/ConcurrentSystem/Assignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir

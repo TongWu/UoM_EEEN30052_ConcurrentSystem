@@ -1,3 +1,0 @@
-D:\JetBrains\Toolbox\apps\CLion\ch-0\213.6461.75\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\Assignment.dir/objects.a
-D:\CodeBlocks\MinGW\bin\ar.exe qc CMakeFiles\Assignment.dir/objects.a @CMakeFiles\Assignment.dir\objects1.rsp
-D:\CodeBlocks\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Assignment.dir/objects.a -Wl,--no-whole-archive -o Assignment.exe -Wl,--out-implib,libAssignment.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Assignment.dir\linklibs.rsp
